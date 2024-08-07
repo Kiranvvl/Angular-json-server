@@ -1,0 +1,12 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.form-check {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
